@@ -1,0 +1,6 @@
+git config --global user.name "Name"
+git config --global user.email "email"
+
+git branch -m master main
+git config --global init.defaultBranch main
+
