@@ -7,8 +7,14 @@ git config --global init.defaultBranch main
 git init
 git add .
 git commit -m " "
-git commit -am ""
+git commit -am ""	#git add . and git command 
 git tag "(versioin )"
 git checkout (version or branch name or id)
 
 
+git branch (name)	# create branch
+git branch -a		#git show all branch
+git branch -d (name)	#git  branch delete
+git switch -c (name)    #branch create and switch branch
+git checkout -b (name)	#branch creaet and switch branch
+git merge (name)	#branch merge
