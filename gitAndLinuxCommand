@@ -18,3 +18,7 @@ git branch -d (name)	#git  branch delete
 git switch -c (name)    #branch create and switch branch
 git checkout -b (name)	#branch creaet and switch branch
 git merge (name)	#branch merge
+
+git reset (id)		#back to code with id before commit
+git reset --hard (id)	#delete commit and
+git remote add (github url or link)
