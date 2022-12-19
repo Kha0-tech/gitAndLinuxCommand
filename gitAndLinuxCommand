@@ -4,3 +4,11 @@ git config --global user.email "email"
 git branch -m master main
 git config --global init.defaultBranch main
 
+git init
+git add .
+git commit -m " "
+git commit -am ""
+git tag "(versioin )"
+git checkout (version or branch name or id)
+
+
